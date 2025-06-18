@@ -4,7 +4,6 @@ Getting Started:
 
 ```bash
 git clone https://github.com/Berachain1/helios.git
-```bash
 cd helios
 ```
 npm install
