@@ -6,8 +6,14 @@ Getting Started:
 git clone https://github.com/Berachain1/helios.git
 cd helios
 ```
+
+```bash
 npm install
+
+```bash
 nano nisa.txt
+
+```bash
 npm start
 ```
 
