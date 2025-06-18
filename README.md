@@ -9,10 +9,10 @@ cd helios
 
 ```bash
 npm install
-
+```
 
 nano nisa.txt
-
+```
 
 npm start
 ```
